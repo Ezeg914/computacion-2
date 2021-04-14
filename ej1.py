@@ -7,7 +7,6 @@ import sys
 
 print("opciones: ", opt)
 
-
 operator = ''
 num1 = ''
 num2 = ''

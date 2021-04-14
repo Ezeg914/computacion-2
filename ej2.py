@@ -4,7 +4,6 @@ import getopt
 import sys
 import os.path
 
-
 (opt,arg) = getopt.getopt(sys.argv[1:], 'i:o:')
 
 print("opciones: ", opt)
