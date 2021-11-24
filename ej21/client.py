@@ -5,7 +5,7 @@ import sys
 client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
 host = ''
-port = 8005
+port = 9007
 
 client_socket.connect((host, port))
 
